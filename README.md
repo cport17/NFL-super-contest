@@ -21,6 +21,7 @@ The model finds that teams that are weak against runs to the left and often do n
 
 
 Data from csv files: 
+
 Each team has 2 offensive values and 2 defensive values assigned for each of 6 different pass options and 7 different run options. The values correspond to the following:
 
 Offense Pass:
